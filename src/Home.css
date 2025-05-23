@@ -1,16 +1,16 @@
 div{
     display: grid;
     flex-direction: column;
-    width:300px;
-    height:400px;
-    background-color: red;
-    flex-wrap: nowrap;
-    overflow: auto;
-    justify-content: center;
-    align-items: center;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 600px;
 }
 
 img{
     width: 100px;
     height:80px;
+    margin:20px;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 60%;
 }
