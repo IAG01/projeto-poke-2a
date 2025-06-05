@@ -1,9 +1,13 @@
-div{
-    display: grid;
-    flex-direction: column;
-
+.PokeFlex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 600px;
+    background-color: beige;
 }
-img{
+
+img {
     width: 100px;
-    height:80px;
+    height: 80px;
 }

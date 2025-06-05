@@ -1,3 +1,4 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -23,12 +24,12 @@ a:hover {
 }
 
 body {
-  margin: 200px;
+  margin: 0;
   display: flex;
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
-  background-color: black;
+  background-color: yellow;
 }
 
 h1 {

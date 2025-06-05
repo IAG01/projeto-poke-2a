@@ -1,15 +1,15 @@
-div{
+.PokeGrid {
     display: grid;
-    grid-template-columns: 100px 100px 100px 100px;
-    grid-template-rows: 100px 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px;
     gap: 20px;
-    width:600px;
-    height: 600;
-    background-color: aquamarine
+    width: 600px;
+    height: 600px;
+    background-color: aquamarine;
 }
 
-img{
+img {
     width: 100px;
-    height:80px;
+    height: 80px;
     margin: 5px;
 }

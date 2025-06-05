@@ -1,16 +1,16 @@
-div{
-    display: grid;
+div {
+    display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
-    width: 400px;
+    flex-wrap: nowrap;
+    width: 800px;
     height: 600px;
 }
 
-img{
+img {
     width: 100px;
-    height:80px;
-    margin:20px;
+    height: 80px;
+    margin: 20px;
     padding: 10px;
-    background-color: aquamarine;
+    background-color: antiquewhite;
     border-radius: 60%;
 }
