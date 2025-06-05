@@ -20,6 +20,11 @@ const Menu =()=>{
                         PokeGrid
                     </a>
                 </li>
+                <li className="nav-item">
+                    <a className="nav-link" href="/viacep">
+                        ViaCep
+                    </a>
+                </li>
             </ul>
         </div>
     )
